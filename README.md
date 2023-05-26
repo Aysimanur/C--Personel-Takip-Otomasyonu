@@ -1,2 +1,2 @@
-# C# Personel Takip Sistemi
- Personel Takip Sistemi
+# C# Personel Takip Otomasyonu
+ Personel Takip Otomasyonu
